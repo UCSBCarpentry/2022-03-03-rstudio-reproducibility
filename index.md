@@ -100,7 +100,7 @@ the pitch.
 {% endif %}
 
 {% if site.pilot %}
-<h3>Registration for this workshop begins on <strong>February 11, 2022, 8:00 am</strong>. Please check back here, closer to the start of registration, for more workshop details.</h3>
+<h3>Registration for this workshop opens on <strong>February 10, 2022, 8:00 am</strong>. Please check back here, closer to the start of registration, for more workshop details.</h3>
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 

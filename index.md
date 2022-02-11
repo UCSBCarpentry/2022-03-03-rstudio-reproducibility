@@ -101,6 +101,9 @@ the pitch.
 
 {% if site.pilot %}
 
+Scientific authoring with R Markdown. Participants will build on using their R data analysis skills in R Studio by learning how to create R Markdown documents that combine analysis and narrative. 
+R Markdown makes it possible to work on a whole research project from within R Studio in an easily reproducible manner: from data upload, cleaning, and analysis, to writing your paper, adding figures, citations and bibliography with proper formatting. R markdown allows you to output your work as .html, .pdf, .docx (among many other formats) to publish your work as a website, paper, etc. This workshop will involve lecture and demos alternating with hands-on exercises, so by the end of the workshop you will have “authored” a short paper of your own with data and narrative we provide. 
+
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 

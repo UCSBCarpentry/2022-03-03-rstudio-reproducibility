@@ -447,7 +447,6 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% elsif site.carpentry == "incubator" %}
-Please check the "Setup" page of
-[the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
-to obtain the software and data you will need to follow the lesson.
+Please check this "Setup" page of
+<a href= "https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio/setup.html">the lesson site</a> for detailed instructions on obtaining the software and data you will need to follow the lesson.
 {% endif %}

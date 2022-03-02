@@ -401,22 +401,21 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-<p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+
+Requirements:
+
+- Github account (use existing or create new account)
+- install Git for Windows (Windows users only)
+- install R & RStudio (Two separate installations)
+
+See instructions below for all three setup requirements:
+
+{% include install_instructions/github.html %}
   
 {% include install_instructions/git.html %}
-  
-</p>
+ 
+{% include install_instructions/r.html %}
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the

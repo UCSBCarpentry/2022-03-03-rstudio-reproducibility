@@ -413,6 +413,10 @@ please preview your site before committing, and make sure to run
   workshop,
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
+  
+{% include install_instructions/shell.html %}
+{% include install_instructions/git.html %}
+  
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
